@@ -1,0 +1,6 @@
+.\tmp\d0d813dd-1f1b-4073-8dfa-9c5e33e1bf08\Solution.java:3: 错误: 找不到符号
+        System.out.pintln("hello world");
+                  ^
+  符号:   方法 pintln(String)
+  位置: 类型为PrintStream的变量 out
+1 个错误

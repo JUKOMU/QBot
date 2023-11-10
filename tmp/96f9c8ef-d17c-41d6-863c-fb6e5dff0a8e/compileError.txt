@@ -1,0 +1,4 @@
+.\tmp\96f9c8ef-d17c-41d6-863c-fb6e5dff0a8e\Solution.java:5: 错误: 需要 class、interface、enum 或 record
+                }))
+                 ^
+1 个错误

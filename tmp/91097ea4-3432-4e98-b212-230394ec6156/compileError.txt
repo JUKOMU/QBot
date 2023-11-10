@@ -1,0 +1,7 @@
+.\tmp\91097ea4-3432-4e98-b212-230394ec6156\Solution.java:5: 错误: 非法字符: '\uff1c'
+for (int i = 0; i＜ 100; i++){
+                 ^
+.\tmp\91097ea4-3432-4e98-b212-230394ec6156\Solution.java:5: 错误: 需要';'
+for (int i = 0; i＜ 100; i++){
+                           ^
+2 个错误

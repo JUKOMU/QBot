@@ -1,0 +1,4 @@
+.\tmp\8c5fa5e3-51e4-4cc8-bb1f-957bb6a60048\Solution.java:5: 错误: 需要 class、interface、enum 或 record
+                }, messageSource=[mirai:source:ids=[1070], internalIds=[1773544705], from group 3037738647 to 639034415 at 1692883542])
+                 ^
+1 个错误
